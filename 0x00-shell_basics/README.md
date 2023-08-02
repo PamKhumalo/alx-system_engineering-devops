@@ -17,3 +17,4 @@ moves all files beginning with an uppercase letter to the directory
 eletes all files in the current working directory that end with the character ~
 creates directories in current directory
 ists all the files and directories of the current directory, separated by commas
+creates magic file that detects school data files
