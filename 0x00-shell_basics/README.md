@@ -8,3 +8,4 @@ creates a directoy
 move file
 Deletes betty
 deletes directory
+changes the working directory to the previous one
