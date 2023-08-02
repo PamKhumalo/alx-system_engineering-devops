@@ -13,3 +13,4 @@ lists all files (even ones with names beginning with a period character, which a
 prints the type of the file named iamafile
 creates a symbolic link in current working directory
 copies HTML files
+moves all files beginning with an uppercase letter to the directory
