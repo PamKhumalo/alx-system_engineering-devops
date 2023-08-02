@@ -6,3 +6,4 @@ Display current directory contents, including hidden files (starting with .)
 Display current directory contents
 creates a directoy
 move file
+Deletes betty
