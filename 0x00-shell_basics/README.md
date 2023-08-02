@@ -7,3 +7,4 @@ Display current directory contents
 creates a directoy
 move file
 Deletes betty
+deletes directory
